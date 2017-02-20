@@ -1,10 +1,15 @@
 import Movies
 import fresh_tomatoes
 
+#Instance of every movie with attributes (title,storyline,youtubetrailer,poster)
+
+
+
 avatar = Movies.Movie("Avatar",
                       "A hybrid human-alien called an Avatar is created to facilitate communication with the indigenous Na'vis from the planet Pandora.",
                       "http://avatarblog.typepad.com/.a/6a0120a6b2c140970c012876c79e1a970c-800wi",
                       "https://www.youtube.com/watch?v=cRdxXPV9GNQ")
+
 
 gladiator = Movies.Movie("Gladiator",
                          "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.",

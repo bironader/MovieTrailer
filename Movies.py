@@ -1,3 +1,5 @@
+#class movie which been used in main.pu
+
 class Movie():
     def __init__(self, title, movieDes,poster_image_url, trailer_youtube_url):
         self.title =title
